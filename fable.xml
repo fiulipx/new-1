@@ -1,6 +1,6 @@
 <fable>
 	<page background="noite_dark.png">
-        <agent>
+    <agent text="string" x="250" y="250" color="aliceblue" >
         
   
    
