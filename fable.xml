@@ -1,7 +1,8 @@
 <fable>
 	<page background="noite_dark.png">
-        <agent img="noite_dark.png">
+        <agent img="noite_dark.png" x="100" y="500">
+            
   
-    
+        <
   </page>
 </fable>
