@@ -1,6 +1,6 @@
 <fable>
 	<page background="noite_dark.png">
-    <agent text="string" x="250" y="250" color="black"/><page background="noite_dark.png">
+    >
     <agent text="Havia um lobo sem rumo que em nada reparava, que somente o ouviam murmura... " x="20" y="350" font-size="20" color="black" on-touch="texto2">
     <texto2 text="-porque nao eu" x="170" y="300" fonte-size="40"/>
 </agent>
