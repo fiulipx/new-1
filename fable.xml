@@ -65,7 +65,7 @@
      
   </page>
     <page background="black.jpeg">
-        <agent video="lobe2.mp4" x="100" y="150" width="500" height="500" />
+        <agent video="lobe2.mp4" x="0" y="10" width="500" height="500" />
     
     
   
