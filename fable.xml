@@ -22,10 +22,10 @@
         <agent img="ground2.png" x="400" y="0" width="100" height="100" />
         <agent img="wolfwalk.png" x="10" y="87" width="170" height="150"/>
         <agent img="Tree_1.png" x="300" y="95" width="95" height="50"/>
-        <agent img="Sign_2.png" x="400" y="100" width="100" height="100" on-touch="_GOTO_PAGE:2"/>
+        <agent img="Sign" x="400" y="100" width="100" height="100" on-touch="_NEXT_PAGE"/>
      
   </page>
-     </page>
+     
      <page background="bg_neve.png">
     <agent text="-porque nao eu?" x="170" y="190" font-size="20"/>
         <agent img="chao_neve.png" x="1" y="0" width="100" height="100" />
