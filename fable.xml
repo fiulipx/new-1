@@ -64,7 +64,8 @@
         <agent img="Tree.png" x="200" y="100" width="300" height="300" on-touch="_NEXT_PAGE"/>
      
   </page>
-    <page
+    <page background="black.jpeg">
+        <agent 
     
   
    
